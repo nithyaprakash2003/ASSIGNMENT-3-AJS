@@ -1,6 +1,6 @@
-#Assignment Instructions
+Assignment Instructions
 
-#General Idea
+General Idea
 
 You are going to be building a much simplified search of the menu item descriptions using the restaurant server REST API we used in Lecture 25, Part 2.
 
